@@ -1,4 +1,4 @@
-1. Com as Amazon Virtual Cloud (Amazon VPC) qual é a MENOR sub-red que pode ter?
+1. Com as Amazon Virtual Cloud (Amazon VPC) qual é a MENOR sub-rede que pode ter?
 
 R: A menor sub-rede é um VPC /28
 
