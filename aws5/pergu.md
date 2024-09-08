@@ -31,6 +31,35 @@ c. tabela de rotas
 d. Gateway NAT
 
 
+4. Qual serviço de rede da aws permite que uma empresa crie uma rede virtual dentro da AWS?
+
+a. Amazon Route 53
+
+b. Amazon VPC
+
+c. Amazon direct Connect
+
+d. AWS Config
+
+
+5. Sube-rede privada têm acesso direto à intenet
+
+a. verdade
+
+b. falso
+
+
+6. Qual componente da infraestrutura global da AWS o Amazon CloudFront usa para garantir a entrega de baixa latência
+
+a. Amazon VCP
+
+b. Zonas de Disponibilidades
+
+c. locais de borda da AWS
+
+d. regiões AWS
+
+
 11. (minha) Uma rede de _________ cliente conectada para comprartilhar recursos
 
 a. computador é uma máquina

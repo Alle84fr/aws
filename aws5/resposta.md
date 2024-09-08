@@ -86,6 +86,88 @@ associadas a outra tabela de rota. Uma sub-rede só pode ser associada a uma ún
 a uma mesma tabela de rota.
 
 
+4. Qual serviço de rede da aws permite que uma empresa crie uma rede virtual dentro da AWS?
+
+R: Amazon VPC
+
+A Amazon VPC permite provisionar nuvens privadas virtuais (VPCs). Uma VPC é uma rede virtual isolada logicamente de outras redes virtuais na Nuvem 
+
+AWS. Uma VPC é dedicada à sua conta. As VPCs pertencem a uma única região da AWS e podem abranger várias zonas de disponibilidade e pertencem a 
+
+uma única zona de disponibilidade.
+
+Depois de criar, você pode dividi-la em uma ou mais sub-redes, que é um intervalo de endereços IP em uma VPC.
+
+- AMAZON ROTE 53:
+
+Serviço web de sistema de nomes de domínio (DNS) na nuvem disponíve e dimensionável. 
+
+Oferecer a desenvolvedores e empresas uma maneira confiável e econômica de direcionar os usuários para aplicações de Internet ao converter nomes 
+
+como www.example.com em endereços IP numéricos (como 192.0.2.1)  Além disso, o Amazon Route 53 é totalmente compatível com IPv6. 
+
+O Amazon Route 53 conecta as solicitações de usuários com a infraestrutura executada na AWS, como instâncias do Amazon EC2, balanceadores de carga 
+
+do Elastic Load Balancing e buckets do Amazon S3, e também pode ser usado para direcionar usuários a infraestruturas fora da AWS.
+
+Você pode usar para configurar verificações de integridade do DNS para que rotear o tráfego para endpoints íntegros ou monitorar de forma 
+
+independente a integridade do seu aplicativo e de seus endpoints.
+
+O fluxo de tráfego do Amazon Route 53 ajuda a gerenciar o tráfego globalmente por meio de vários tipos de roteamento, que podem ser combinados com 
+
+failover de DNS para habilitar diversas arquiteturas de baixa latência e tolerantes a falhas.
+
+Também oferece registro de nome de domínio. Você pode comprar e gerenciar nomes de domínio (como example.com), e o Amazon Route 53 definirá 
+
+automaticamente as configurações de DNS para seus domínios.
+
+- DIRECT CONECT :
+
+O desempenho poderá ser afetado negativamente se o data center estiver localizado longe da região da AWS. Para essas situações, a AWS oferece o 
+
+AWS Direct Connect ou o DX. O AWS Direct Connect permite estabelecer uma conexão de rede dedicada e privada entre a rede e um dos locais do DX. 
+
+Essa conexão privada pode reduzir os custos de rede, aumentar a taxa de transferência de largura de banda e fornecer uma experiência de rede mais 
+
+consistente do que as conexões baseadas na Internet.
+
+- AWS CONFIG:
+
+AWS Config fornece uma visão detalhada da configuração dos AWS recursos em sua AWS conta,como os recursos estão relacionados um com o outro e como 
+
+eles foram configurados no passado, de modo que você possa ver como os relacionamentos e as configurações foram alterados ao longo do tempo.
+
+É uma entidade com a qual você pode trabalhar AWS, como uma instância do Amazon Elastic Compute Cloud (EC2), um volume do Amazon Elastic Block 
+
+Store (EBS), um grupo de segurança ou uma Amazon Virtual Private Cloud (VPC).
+
+
+5. Sube-rede privada têm acesso direto à intenet
+
+falso
+
+A Amazon VPC oferece controle sobre seus recursos de rede virtual, incluindo a seleção do seu próprio intervalo de endereços IP, a criação de 
+
+sub-redes e a configuração de tabelas de rotas e gateways de rede. Você pode usar IPv4 e IPv6 na VPC para acesso seguro a recursos e aplicativos.
+
+Pode personalizar a configuração de rede da VPC. Por exemplo, você pode criar uma sub-rede pública para seus servidores web que podem acessar a 
+
+Internet pública. Você pode colocar seus sistemas de back-end (como bancos de dados ou servidores de aplicativos) em uma sub-rede privada sem 
+
+acesso público à Internet.
+
+Pode usar várias camadas de segurança, incluindo grupos de segurança e listas de controle de acesso à rede (ACLs de rede), para ajudar a controlar 
+o acesso às instâncias do Amazon Elastic Compute Cloud (Amazon EC2) em cada sub-rede.
+
+
+6. Qual componente da infraestrutura global da AWS o Amazon CloudFront usa para garantir a entrega de baixa latência
+
+R: locais de borda da AWS
+
+
+
+
 11. (minha) Uma rede de _________ cliente conectada para comprartilhar recursos
 
 b. computadores com mais 3 ou mais máquinas
