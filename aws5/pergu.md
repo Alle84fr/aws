@@ -8,6 +8,7 @@ c. /24
 
 d. /26
 
+
 2. Coma a Amazon Virtal Private Cloud (VPC), o MAIOR intervalo de endereço IP é:
 
 a. /16
@@ -17,6 +18,18 @@ b. /24
 c. /30
 
 d, /28
+
+
+3. Qual da opção DEVE ESTAR presente para permitir acesso que os recursos de uma sub-privada acessem a internet?
+
+a. lista de controle de acesso à rede
+
+b. grupo de segurança
+
+c. tabela de rotas
+
+d. Gateway NAT
+
 
 11. (minha) Uma rede de _________ cliente conectada para comprartilhar recursos
 
