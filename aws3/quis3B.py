@@ -86,24 +86,6 @@ revisao = {
           "solucao":{"b":
           "🤓 - Pontos de Presença (PoPs): São locais estrategicamente distribuídos ao redor do globo, onde a AWS estabelece sua presença para conectar os usuários finais aos seus serviços em nuvem // - Cobertura global: A AWS possui uma rede global de PoPs para garantir uma latência mínima para seus clientes em todo o mundo // - Flexibilidade: A localização dos PoPs pode ser ajustada para atender às demandas dos clientes e às mudanças nas rotas de internet // - Performance: Ao colocar PoPs mais próximos dos usuários, a AWS pode entregar conteúdo e serviços com menor latência, o que é crucial para aplicações sensíveis ao tempo, como streaming de vídeo e jogos online."},},},
 
-          "quetao11":{ "pergunta": "(minha) Disco, armazenamento, reservado tem cobrança, independentemete de usar. Máquina, poder computacional, tem cobrança, independente de estar ou não sendo usada. Dados de entrada na nuvem e na saída tem cobrança.", "resposta":{
-          "a": "a frase está toda correta", 
-          "b": "disco, armazenamento não é cobrado quando não usado e saida de dados da nuvem não tem cobrança", 
-          "c": "saída de dados da nuvem tem cobrança, o resto está correto", 
-          "d": "máquina, poder compjutacional não tem cobrança se não usado e entrada de dados na nuvem não tem cobrança",
-          "e": "disco, armazenamento não é cobrado quando não usado e entrada de dados da nuvem não tem cobrança", 
-          "solucao":{"d":
-          "🤓 - A frase correta é Disco, armazenamento, reservado TEM cobrança, INdependentemete de usar. Máquina, poder computacional, NÃO tem cobrança, independente de estar ou não sendo usada. Dados de entrada na nuvem NÃO TEM COBRANÇA e na saída TEM cobrança."},},},
-
-          "quetao12":{ "pergunta": "(minha) Disco, armazenamento, reservado tem cobrança, independentemete de usar. Máquina, poder computacional, tem cobrança, independente de estar ou não sendo usada. Dados de entrada na nuvem e na saída tem cobrança.", "resposta":{
-          "a": "Cobrança consolidada em várias contas da AWS", 
-          "b": "Automatizou a criação e o gerenciamento de contas AWS", 
-          "c": "Políticas de acesso gerenciadas centralmente em várias contas da AWS", 
-          "d": "Acesso controlado aos serviços AWS",
-          "e": "todas anteriores", 
-          "solucao":{"d":
-          "🤓 - AWS Organizations é um serviço de gerenciamento de contas que permite consolidar várias contas da AWS em uma organização que você cria e gerencia de forma centralizada, inclui recursos de cobrança consolidada e gerenciamento de contas, que ajudam a atender melhor às necessidades orçamentárias, de segurança e de compatibilidade da sua empresa. Os principais benefícios do AWS Organizations são: // Políticas de acesso gerenciadas centralmente em várias contas da AWS //  Acesso controlado aos serviços AWS. //  Automatizou a criação e o gerenciamento de contas AWS //  Cobrança consolidada em várias contas da AWS"},},},
-          
 }
 
 
@@ -130,4 +112,4 @@ for quest, val_quest in revisao.items():
                     errada += 1
 
           print(f"""{val_quest['resposta']['solucao']}
-          De 12 você possui {correta} corretas e precisa revisar {errada}""")
+          De 10 você possui {correta} corretas e precisa revisar {errada}""")
