@@ -137,7 +137,7 @@ RESPOSTA
 
  9 - Quais são os benefícios de usar o AWs Organization
 
- a - Substitui as políticas existente do AWs Identity and Access Management (IAM) por políticas de controle de serviço (SCPs), que são mais fáceis de gerenciar
+ ax - Substitui as políticas existente do AWs Identity and Access Management (IAM) por políticas de controle de serviço (SCPs), que são mais fáceis de gerenciar
  b - fornece a habilidade de criar grupos de contas e anexar políticas a eles
  c - fornece a habilidade de criar um n° ilimitado de unidades organizacionais(UOs) aninhadas para dar suporte à estrutura que se deseja
  d - simplifica a automatização da criação e gerenciamento de contas usando APIs

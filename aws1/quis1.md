@@ -6,7 +6,7 @@ c - ter alcance global em minutos
 d - aumentar a velocidade e a agilidade
 d - todas
 
-REspostas
+REspostas 
 
 todas
 
@@ -16,7 +16,7 @@ todas
  c - pagamento conforme compra
  d - pagamento conforme a reserva
 
- RESPOsta
+ RESPOsta b  
 
  pagamento conforme o uso
 
@@ -27,7 +27,7 @@ todas
  c - administração de sistema como serviço
  d - software como serviço
 
- REsposta
+ REsposta 
 
  administração de sistemas não é um modelo de computação em nuvem
 
@@ -36,7 +36,7 @@ todas
  a - verdade
  b - falso
 
- resposta
+ resposta 
 
  verdade
 
@@ -48,7 +48,7 @@ todas
  d - tricar despesas de capital por despesas variáveis
  e - beneficiar-se de grandes economias de escala
  
- resposta
+ resposta 
 
  pagar pelo armazenamento em rack
 
@@ -60,7 +60,7 @@ todas
  d - recursos temporários e descartáveis
  e - banco de dados tolerantes a falhas
 
- resposta
+ resposta 
 
  a e c
 
