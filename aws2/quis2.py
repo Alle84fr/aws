@@ -3,7 +3,7 @@
 print("EXERCÍCOS TIRADOS DO MOD 2 DO CURSO BÁSICO DE AWS - Explicação das respotas pesquisadas conforme leitura, sujeitas a erros")
 
 revisao = { 
-          "quetao1":{ "pergunta": "Para definir serviços, como Amazon EC2 - Amazon Elastic Computer claund e Amazon RDS - Amazom relational Database Servec é possíver investir em reserva, com instâncias reservadas. Qual intância paga totalmente antecipada, não tem que paga antecipadamente e paga antecipação parcial, nesta orde?:", 
+          "quetao1":{ "pergunta": "Para definir serviços, como Amazon EC2 - Amazon Elastic Computer claund e Amazon RDS - Amazom relational Database Servec é possíver investir em reserva, com instâncias reservadas. Qual intância paga totalmente antecipada, não tem que paga antecipadamente e paga antecipação parcial, nesta orde?", 
           "resposta":{
           "a": "AURI - MURI - NURI", 
           "b": "MURI - NURI - PURI", 
