@@ -98,7 +98,7 @@ revisao = {
           "solucao":{"d":
           "🤓 - A frase correta é Disco, armazenamento, reservado TEM cobrança, INdependentemete de usar. Máquina, poder computacional, NÃO tem cobrança, independente de estar ou não sendo usada. Dados de entrada na nuvem NÃO TEM COBRANÇA e na saída TEM cobrança."},},},
 
-          "quetao11":{ "pergunta": "(minha) Disco, armazenamento, reservado tem cobrança, independentemete de usar. Máquina, poder computacional, tem cobrança, independente de estar ou não sendo usada. Dados de entrada na nuvem e na saída tem cobrança.", "resposta":{
+          "quetao12":{ "pergunta": "(minha) Disco, armazenamento, reservado tem cobrança, independentemete de usar. Máquina, poder computacional, tem cobrança, independente de estar ou não sendo usada. Dados de entrada na nuvem e na saída tem cobrança.", "resposta":{
           "a": "Cobrança consolidada em várias contas da AWS", 
           "b": "Automatizou a criação e o gerenciamento de contas AWS", 
           "c": "Políticas de acesso gerenciadas centralmente em várias contas da AWS", 
