@@ -133,4 +133,4 @@ for quest, val_quest in revisao.items():
                     errada += 1
 
           print(f"""{val_quest['resposta']['solucao']}
-          De 10 você possui {correta} corretas e precisa revisar {errada}""")
+          De 12 você possui {correta} corretas e precisa revisar {errada}""")
