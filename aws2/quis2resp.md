@@ -1,12 +1,11 @@
+### Respostas
+
 1 - Para definir serviços, como 
 Amazon EC2 - Amazon Elastic Computer claund
 Amazon RDS - Amazom relational Database Servece
 é possíver investir em reserva, que são:
-a - AURI - MURI - NURI
-B - MURI - NURI - PURI
-C - AURI - NURI - PURI
-D - AURI - PURI - DURI
-RESPOSTA 
+
+ C - AURI - NURI - PURI
 
 AURI - All Upfront Reserved Instance - o usuário paga antecipadamente 
 por toda a duração do período de reserva, o que normalmente é um ou três anos. 
@@ -15,40 +14,44 @@ Essa opção proporciona o maior desconto
 NURI - No Upfront Reserved Instances -  o usuário não precisa fazer um pagamento
 inicial, eles pagam uma taxa de reserva menor ao longo do tempo.A taxa horária 
 da instância reservada é um pouco mais alta do que na opção AURI. 
-ode ser vantajosa para usuários que não têm capital inicial para investir ou preferem 
+Pode ser vantajosa para usuários que não têm capital inicial para investir ou preferem 
 manter sua liquidez.
 
-PURI - Partial Upfront Reserved Instances -  o usuário faz um pagamento parcial antecipado
-e, em seguida, paga uma taxa de reserva menor ao longo do tempo. O pagamento inicial é 
-menor do que no caso do AURI, mas ainda oferece um desconto significativo em comparação 
-com instâncias sob demanda.
+PURI - Partial Upfront Reserved Instances -  o usuário faz um pagamento parcial antecipado e, em seguida, paga uma taxa de reserva menor ao longo do tempo. O pagamento inicial é menor do que no caso do AURI, mas ainda oferece um desconto significativo em comparação com instâncias sob demanda.
 
 AURI é adequado para aqueles que podem pagar antecipadamente para obter o máximo desconto,
-enquanto NURI e PURI oferecem opções para aqueles que preferem distribuir os custos ao 
-longo do tempo ou têm limitações financeiras iniciais.
+enquanto 
+
+NURI e PURI oferecem opções para aqueles que preferem distribuir os custos ao longo do tempo ou têm limitações financeiras iniciais.
 
 fonte https://brainly.com.br/tarefa/59551511
 
-2 - O que um cliente pode acessar para obeter DETALHES SOBRE ATIVIDADE DE FATURAMENTO do
-AMAZON EC2 (Amazon Elastic Computer Clound) que ocorrei há 3 meses?
-a - Painel do AmazonEC2
+&nbsp;
+
+2 - O que um cliente pode acessar para obeter DETALHES SOBRE ATIVIDADE DE FATURAMENTO do AMAZON EC2 (Amazon Elastic Computer Clound) que ocorrei há 3 meses?
+
 b - AWS Cost Explore
-c - Painel do AWS TRsuted Advisor
-d - Logs do AWS CloudTrail armazenados no Amazon S3 (Amazon Simple Storage Servece)
-RESPOSTA
 
 O AWS Cost explorer pode oferecer mais detalhes sobre a atividade de faturamento
 do Amazon EC2 nos últimos 3 meses.
 
 O console do AWS Billing and Cost Management inclui a página Cost Explorer para visualizar seus dados de custo da AWS como um gráfico, pode visualizar, entender e gerenciar os custos e o uso da AWS ao longo do tempo.Inclui um relatório padrão que visualiza os custos e o uso dos serviços mais econômicos. O relatório mensal de custos de execução fornece uma visão geral de todos os seus custos dos últimos 3 meses. Ele também fornece números previstos para o próximo mês, com um intervalo de confiança correspondente.
 
-O Cost Explorer é uma ferramenta gratuita que permite
+O Cost Explorer é uma ferramenta gratuita que permite:
+
 •Visualize gráficos de seus custos
+
 •Visualize os dados de custo dos últimos 13 meses.
+
 •Preveja o quanto você provavelmente gastará nos próximos 3 meses.
+
 •Descubra padrões de gastos com recursos da AWS ao longo do tempo e identifique áreas problemáticas de custos.
+
 •Identificar os serviços que você mais usa
+
 •Visualize métricas, como quais zonas de disponibilidade têm mais tráfego ou qual conta vinculada da AWS é mais usada
+
+&nbsp;
 
 3 - Paro a receber a taxa com desconto associada às instâncias reservadas você
 deve fazer um pagamento antecipado completo pelo período de vigência do contrato.

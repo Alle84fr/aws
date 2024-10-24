@@ -76,7 +76,7 @@ c - não é possível usar um data center para mais de uma zona de disponibilida
 8. O que é verdade sobre as regiões?
 
 a - elas são as localizações físicas dos seus clientes
-b - uma região é um localfísico que tem várioas zonas de disponibilidade
+b - uma região é um local físico que tem várioas zonas de disponibilidade
 c - cada região está localizada em uma região separada
 d - todas as regiões estão localizadas em uma área geográfica específica
 

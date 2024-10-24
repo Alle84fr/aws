@@ -10,7 +10,7 @@ revisao = {
           "d": "aumentar a velocidade e a agilidade",
           "e": "todas", 
           "solucao":{"e":
-          "🤓 - Finaceira, capacidade de demanda, alcance global em minutos velocidade e agilidade/ 1° Troque despesas de capital por despesas variáveis, 2° Beneficie-se da grande economia de escala/ 3° Pare de tentar adivinhar a capacidade/ 4°Aumente a velocidade e a agilidade/ 5° Pare de gastar dinheiro na execução e manutenção de datacenters/ 6° Tenha alcance global em minutos."},},},
+          "🤓 - Finaceira - pagar o que usar, foco no software e cliente - , capacidade de demanda - usar o que e como precisa ou pode pagar, poder tirar e por as demandas, produtos quando precisa -, alcance global em minutos, velocidade, agilidade, economia de escala, capacidade flexíveis."},},},
 
           "quetao2":{ "pergunta": "Qual é o modelo de definição de preço que permite que os clientes da AWS paguem pelos recuroso conforme necessário?",
           "resposta":{
@@ -19,7 +19,7 @@ revisao = {
           "c": "pagamento conforme compra", 
           "d": "pagamento conforme a reserva",
           "solucao":{"b":
-          "🤓 - Computação em nuvemé a entrega sob demanda de poder computacional, banco de dados, armazenamento, aplicativos e outros recursos de TI pela Internet com uma definição de preço conforme o uso:"},},},
+          "🤓 - Computação em nuvem é a entrega sob demanda de poder computacional, banco de dados, armazenamento, aplicativos e outros recursos de TI pela Internet com uma definição de preço conforme o uso"},},},
 
           "quetao3":{ "pergunta": "Qual destes NÃO  é um modelo de computação em nuvem?", 
           "resposta":{

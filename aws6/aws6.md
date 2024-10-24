@@ -32,13 +32,13 @@ resposta:
 
 3. O que está incluído em uma imagem de máquina da Amazon (AMI)?
 
-a = um modelo para o volume raiz da instância
+a = um modelo para o volume raiz da instância 
 
-b = execução de permissões que controlam quais contas da AWs podem usar a AMI para executar instâncias
+b = execução de permissões que controlam quais contas da AWs podem usar a AMI para executar instâncias 
 
 c = um mapeamento de dispositivos de blocos que especifica os volumes a serem anexados à instância quando ela é executada
 
-d = todas as opções
+d = todas as opções 
 
 resposta:
 
@@ -104,9 +104,9 @@ c = execute 4 instâncias reservadas constantemente e adicione 8 instâncias sob
 
 d = execute 4 instâncias sob demanda constantemente e adione 8 instâncias reservadas no último dia de cada mês
 
-resposta:
+resposta: c
 
-* acho que a - instãncias reservadas oferecem economia de custo quando você se copromete a executá-las em um tempo integral, como nos processamente de tráfego básico. As instãncias sob demanda oferecem flexixbilidade de lidar com picos de tráfego
+* instãncias reservadas oferecem economia de custo quando você se copromete a executá-las em um tempo integral, como nos processamente de tráfego básico. As instãncias sob demanda oferecem flexixbilidade de lidar com picos de tráfego
 
 &nbsp;
 
@@ -148,9 +148,9 @@ d = tipo de instância do Amazon EC2
 
 resposta
 
-* d - tipo de instência 
+* d - tipo de instância do AWS Ec2
 
-* a - Ami
+* a - Imagem da máquina da Amazon - Ami
 
 &nbsp;
 

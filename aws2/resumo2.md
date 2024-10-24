@@ -35,8 +35,5 @@ Amazon Elastic Compute Cloud ***(Amazon EC2)*** e o Amazon Relational Database S
 
  **CRESCIMENTO DA
 
-
-
-
 Painel de faturamento permite que visualize o status das despesas acumuladas no mês. Um dos gráficos localizado no painel é o Spend Summary (Resumo de gastos). Mostra quanto gastou no mês passado, os custos estimados de uso da AWS acumulados no mês e uma previsão do quanto você deverá gastar neste mês.
 O gráfico Month-to-Date Spend by Service, mostra os principais serviços que você mais usa e a proporção de custos que são atribuídos a esse serviço.

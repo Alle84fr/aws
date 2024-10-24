@@ -1,3 +1,5 @@
+### Respostas
+
 1. Quais as vantagens da computação em nuvem em relaçâo à computação ON-PREMISES?
 
 a - evitar grandes compras de capital
@@ -9,6 +11,8 @@ c - ter alcance global em minutos
 d - aumentar a velocidade e a agilidade
 
 d - todas
+
+todas
 
 &nbsp;
 
@@ -22,6 +26,10 @@ d - todas
 
  d - pagamento conforme a reserva
 
+ RESPOsta b  
+
+ pagamento conforme o uso
+
  &nbsp;
 
  3. Qual destes NÃO  é um modelo de computação em nuvem?
@@ -34,6 +42,10 @@ d - todas
 
  d - software como serviço
 
+ REsposta 
+
+ administração de sistemas não é um modelo de computação em nuvem
+
  &nbsp;
 
  4. A propriedade e a manuteção do hadware conectado à rede ncessário para serviços de aplicação SÃO DA AWS. Você provisiona e usa o que precisa
@@ -41,6 +53,10 @@ d - todas
  a - verdade
 
  b - falso
+
+ resposta 
+
+ verdade
 
  &nbsp;
 
@@ -56,6 +72,10 @@ d - todas
 
  e - beneficiar-se de grandes economias de escala
  
+ resposta 
+
+ pagar pelo armazenamento em rack
+
  &nbsp;
 
  6. Quais das alternativas não são benefícios da computação em nuvem?
@@ -69,6 +89,10 @@ d - todas
  d - recursos temporários e descartáveis
 
  e - banco de dados tolerantes a falhas
+
+ resposta 
+
+ a e c
 
  &nbsp;
 
@@ -84,6 +108,10 @@ d - todas
 
  e - Amazon Redshift
 
+ resposta 
+
+ Ec2
+
  &nbsp;
 
  8. A computação em nuvem oferece uma forma simples de acessar servidores, armazenamento, banco de dados e um conjunto amplo de serviços de aplicações pela Internet. Você é o proprietário do hardware concectado à rede necessário pera esses serviços e a Amazon Web Services provisiona o que precisa
@@ -91,6 +119,12 @@ d - todas
  a - certo
 
  b - errado
+
+ respota
+
+errado
+
+Um dos principais benefícios da computação em nuvem é a oportunidade de capital por BAIXO CUSTO variável que acompanha os negócios
 
 &nbsp;
 
@@ -103,6 +137,10 @@ b - ter centenas de milhares de clientes agregados na nuvem
 c - ter centenas de serviços de nuvens disponíveis pela internet
 
 d - ter que investir pesadamente em data centers e servidores
+
+resposta
+
+ter centenas de milhares de clientes agregados na nuvem
 
 &nbsp;
 
@@ -117,5 +155,13 @@ c - Console de gerenciamentode AWS
 d - AWS Command Line Interface (AWS CLI)
 
 e - Kit de desenvolvimento de software (SDKs)
+
+resposta
+
+gerenciamento da AWS
+
+AWS Command Line interface
+
+kits de desenvolvimento de sofrware
 
 
